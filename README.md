@@ -1,2 +1,2 @@
 # the_odin_project
-My progress through The Odin Project.
+My first project from The Odin Project. Build a simple google homepage with HTML and CSS.
